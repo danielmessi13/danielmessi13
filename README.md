@@ -6,42 +6,11 @@ Estou sempre em busca de novos desafios que me permitam aprender e aplicar tecno
 
 Se você deseja saber mais sobre meus projetos ou colaborar em alguma iniciativa, fique à vontade para entrar em contato!
 
-
 ## 🛠️ Minhas Ferramentas
-<div align="center">
-  <table style="width: 100%; border-collapse: separate; border-spacing: 60px;">
-    <tr>
-      <th style="text-align: center;">Desenvolvimento Mobile e Web</th>
-      <th style="text-align: center;">DevOps e Backend</th>
-      <th style="text-align: center;">Gestão e Colaboração</th>
-      <th style="text-align: center;">Desenvolvimento de Jogos</th>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: top;">
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="zoom:1.5;" />
-        <br>
-        <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="zoom:1.5;" />
-      </td>
-      <td style="text-align: center; vertical-align: top;">
-        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="zoom:1.5;" />
-        <br>
-        <img alt="Fastlane" src="https://img.shields.io/badge/Fastlane-4B9DFF?style=for-the-badge&logo=fastlane&logoColor=white" style="zoom:1.5;" />
-        <br>
-        <img alt="Postgres" src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="zoom:1.5;" />
-      </td>
-      <td style="text-align: center; vertical-align: top;">
-        <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="zoom:1.5;" />
-        <br>
-        <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" style="zoom:1.5;" />
-      </td>
-      <td style="text-align: center; vertical-align: top;">
-        <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" style="zoom:1.5;" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-
+| Desenvolvimento Mobile e Web | DevOps e Backend | Gestão e Colaboração | Desenvolvimento de Jogos |
+| ---------------------------- | ---------------- | -------------------- | -------------------------- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) <br> ![Fastlane](https://img.shields.io/badge/Fastlane-4B9DFF?style=for-the-badge&logo=fastlane&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) <br> ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
 
 
 

@@ -1,9 +1,3 @@
-# Olá, eu sou Daniel Messias! 👋
-
-<div align="center">
-  <img src="https://www.digital-dividend.com/wp-content/uploads/2023/06/Flutter-App-Development.png" alt="Banner Daniel Messias" width="100%" />
-</div>
-
 # Sobre Mim
 
 Olá! Sou um Mobile Software Engineer apaixonado por criar experiências inovadoras e eficientes através do desenvolvimento mobile. Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores e de grande impacto, utilizando principalmente Flutter e diversas tecnologias complementares para entregar soluções robustas e escaláveis. 

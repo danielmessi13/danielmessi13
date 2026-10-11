@@ -14,6 +14,14 @@ Se você deseja saber mais sobre meus projetos ou colaborar em alguma iniciativa
 
 
 
+## 🚀 Projetos
+
+### [Kettle](https://kettleai.dev)
+
+App nativo para macOS que roda agentes de IA (Claude Code, Codex, OpenCode, Gemini etc.) em terminais organizados por projeto e avisa quando o agente terminou ou precisa de você, com notificação, som e indicadores visuais.
+
+[![kettleai.dev](https://img.shields.io/badge/kettleai.dev-0d0d0c?style=for-the-badge&logo=apple&logoColor=f2b84b)](https://kettleai.dev)
+
 ## 🤝 Conecte-se comigo
 
 Adoro trocar ideias e colaborar em novos projetos! Você pode me encontrar em:
